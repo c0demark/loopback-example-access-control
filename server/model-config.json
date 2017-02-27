@@ -28,15 +28,15 @@
     "public": false
   },
   "user": {
-    "dataSource": "db",
+    "dataSource": "mongoDs",
     "public": true
   },
   "team": {
-    "dataSource": "db",
+    "dataSource": "mongoDs",
     "public": false
   },
   "project": {
-    "dataSource": "db",
+    "dataSource": "mongoDs",
     "public": true
   }
 }
